@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader-Userscript
-Adds a button that lets you download YouTube videos. Taken from greasyfork.org.
+Adds a button that lets you easily download YouTube videos. Taken from greasyfork.org.
 
 **Source:** https://greasyfork.org/en/scripts/1317-download-youtube-videos-as-mp4
 
